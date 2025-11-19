@@ -6,8 +6,8 @@
   
   ### 🚀 AI Engineer | MSc Student @ Paris Dauphine–PSL
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiheb-guesmi)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiheb.guesmi@dauphine.eu)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiheb-guesmi-1aa9b12a9/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chihebguesmi36@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chihebguesmi11)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=chihebguesmi11&color=blueviolet&style=for-the-badge)
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems. Currently pursuing my **Master's in Artificial Intelligence, Systems and Data** at Université Paris Dauphine–PSL (Excellence Scholarship recipient).
+I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems. An **AI builder and not a simple user** Currently pursuing my **Master's in Artificial Intelligence, Systems and Data** at Université Paris Dauphine–PSL (Excellence Scholarship recipient).
 
 My focus areas include:
 - 🤖 **Generative AI & LLMs**: Building production-ready AI applications with RAG, LangChain, and multi-agent systems
@@ -31,7 +31,7 @@ class ChihebGuesmi:
     def __init__(self):
         self.location = "Paris, France 🇫🇷 | Tunis, Tunisia 🇹🇳"
         self.education = "MSc AI, Systems & Data @ Paris Dauphine-PSL"
-        self.interests = ["Generative AI", "LLMs", "Multi-Agent Systems", "NLP", "Deep Learning"]
+        self.interests = ["Generative AI", "LLMs", "Multi-Agent Systems", "NLP", "Deep Learning", "Machine Learning"]
         self.current_focus = "Building AI solutions from analysis to production deployment"
         self.hobbies = ["🎸 Guitar", "🎬 Cinema & Film Analysis", "🎵 Music"]
     
