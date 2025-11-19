@@ -1,8 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chiheb%20Guesmi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <!-- Top Banner with Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&fontSize=0" />
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chiheb+Guesmi;AI+Builder+With+Impact;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  
+  <br/>
 </div>
 
 <div align="center">
+
   
   ### 🚀 AI Engineer | MSc Student @ Paris Dauphine–PSL
   
@@ -18,13 +25,24 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems. An **AI builder and not a simple user** Currently pursuing my **Master's in Artificial Intelligence, Systems and Data** at Université Paris Dauphine–PSL (Excellence Scholarship recipient).
+I'm an **AI Engineer** passionate about building intelligent systems that create real-world impact.  
+More than just using AI tools, I'm an **AI builder** driven by curiosity to understand *what’s happening under the hood* and to push the boundaries of what AI can do.
+I’m currently pursuing a **Master’s in Artificial Intelligence, Systems & Data** at *Université Paris Dauphine–PSL*, where I’m proud to be an **Excellence Scholarship** recipient.
 
-My focus areas include:
-- 🤖 **Generative AI & LLMs**: Building production-ready AI applications with RAG, LangChain, and multi-agent systems
-- 🧠 **Agentic AI**: Designing autonomous agents with MCP protocol for complex task automation
-- 📊 **ML Engineering**: From model development to deployment, with expertise in Deep Learning and NLP
-- ☁️ **MLOps**: Deploying scalable AI solutions on cloud platforms (GCP)
+### 🔥 What I Work On
+
+- 🤖 **Generative AI & LLMs**  
+  Building production-grade applications using RAG, LangChain, OpenAI tooling, and multi-agent architectures.
+
+- 🧠 **Agentic AI**  
+  Designing autonomous agents powered by the MCP protocol to execute complex workflows and real-world tasks.
+
+- 📊 **ML Engineering**  
+  End-to-end machine learning: Deep Learning, NLP, classical ML, and complete project architecture from prototype to deployment.
+
+- ☁️ **MLOps & Cloud**  
+  Deploying scalable, reliable AI systems on GCP using CI/CD, containerization, monitoring, and best engineering practices.
+
 
 ```python
 class ChihebGuesmi:
